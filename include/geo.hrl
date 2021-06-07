@@ -1,1 +1,1 @@
--define(AccessKey, "c6258baa33a8ea82b6d03094ff49cc8c"). % must be a string
+-define(AccessKey, "AccessKey"). % must be a string
